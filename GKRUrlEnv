@@ -1,1 +1,1 @@
-{"OutputUrl":"http://127.0.0.1:1880/api/mes/SZCommonValidateICTPass","InputUrl":"http://127.0.0.1:1880/api/mes/SZCommonValidateICT","FixUrl":"http://127.0.0.1:1880/api/mes/ICTTestingValidation"}
+{"OutputUrl":"http://127.0.0.1:1880/api/mes/SZCommonValidateICTPass","InputUrl":"http://127.0.0.1:1880/api/mes/SZCommonValidateICT","FixUrl":"http://127.0.0.1:1880/api/mes/ICTTestingValidation","OrderUrl":"http://127.0.0.1:1880/api/mes/GetOrderStationQty"}
