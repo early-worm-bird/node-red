@@ -1,1 +1,1 @@
-{"deviceNo":"1","lineName":"2","workPlanNo":"3","programName":"4","inputUrl":"http://127.0.0.1:1880/api/epro/burn/v2/inStationCheck","outputUrl":"http://127.0.0.1:1880/api/epro/burn/v1/passingStation"}
+{"facilityId":"1","mesIp":"127.0.0.1","machineId":"3","processStation":"4","portSn":"1880","portOutput":"1880","userId":"6"}
