@@ -1,1 +1,1 @@
-{"Url":"http://127.0.0.1:1880/Handler/EquipmentInterfacHandler","inputApi":"GeneralDataCheckPro","outputApi":"GeneralDataCollection","userName":"1","resName":"2","station":"3","equCode":"4","fixture":"5"}
+{"loginUrl":"http://127.0.0.1:1880/swiftmom/api/clientLogin","resName":"2","station":"3","equCode":"4","fixture":"5"}

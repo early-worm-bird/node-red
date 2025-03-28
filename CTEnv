@@ -1,1 +1,1 @@
-{"facilityId":"1","mesIp":"127.0.0.1","machineId":"3","processStation":"4","portSn":"1880","portOutput":"1880","userId":"6"}
+{"inputUrl":"http://127.0.0.1:1880/api/epro/burn/v2/inStationCheck"}
