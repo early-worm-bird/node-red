@@ -1,1 +1,1 @@
-{"ip":"192.168.1.181","hostname":"DESKTOP-U1BGV1F"}
+{"ip":"192.168.1.243","hostname":"DESKTOP-U1BGV1F","mac":[{"interface":"以太网","mac":"a4:bb:6d:e2:7e:fb"},{"interface":"VirtualBox Host-Only Network","mac":"0a:00:27:00:00:07"},{"interface":"vEthernet (以太网)","mac":"00:15:5d:3b:c6:cb"},{"interface":"vEthernet (VirtualBox Host)","mac":"00:15:5d:0a:07:a3"},{"interface":"vEthernet (WLAN)","mac":"00:15:5d:72:f3:2a"}]}

@@ -1,1 +1,1 @@
-{"loginUrl":"http://127.0.0.1:1880/swiftmom/api/clientLogin","resName":"2","station":"3","equCode":"4","fixture":"5"}
+{"Url":"http://127.0.0.1:1880/Handler/EquipmentInterfacHandler","inputApi":"http://127.0.0.1:1880/Handler/EquipmentInterfacHandler","outputApi":"http://127.0.0.1:1880/Handler/EquipmentInterfacHandler","userName":"4","resName":"2","station":"3","equCode":"4","fixture":"5"}
