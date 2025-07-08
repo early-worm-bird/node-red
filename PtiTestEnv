@@ -1,1 +1,1 @@
-{"DevStatusUrl":"1","copyUrl":"2","sss":"3","ttttt":"4"}
+{"enableBasicFlow":true,"enableBarcodeEvent":true,"enableResultEvent":true,"enableBoardCodeReturn":true,"loginResource":"000","apiUrl":"http://mes.aodaod.com:10020/EI/EI/"}
