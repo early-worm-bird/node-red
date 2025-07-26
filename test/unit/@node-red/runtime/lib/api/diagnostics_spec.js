@@ -28,7 +28,7 @@ describe("runtime-api/diagnostics", function() {
                     version: "7.7.7",
                     available: () => true,
                     //apiMaxLength: xxx, deliberately left blank. Should arrive in report as "UNSET"
-                    debugMaxLength: 1111,
+                    debugMaxLength: 1000000,
                     disableEditor: false,
                     flowFile: "flows.json",
                     mqttReconnectTime: 321,
@@ -97,7 +97,7 @@ describe("runtime-api/diagnostics", function() {
                 settingsCount.should.eql(27);//ensure no more than the 21 settings listed below are present in the settings object
                 result.runtime.settings.should.have.property('available',true);
                 result.runtime.settings.should.have.property('apiMaxLength', "UNSET");//deliberately disabled to ensure UNSET is returned
-                result.runtime.settings.should.have.property('debugMaxLength', 1111);
+                result.runtime.settings.should.have.property('debugMaxLength', 1000000);
                 result.runtime.settings.should.have.property('disableEditor', false);
                 result.runtime.settings.should.have.property('editorTheme', {});
                 result.runtime.settings.should.have.property('flowFile', "flows.json");
