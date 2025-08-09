@@ -4,3 +4,4 @@ build
 !node_modules/@node-red/
 !node_modules/node-red-contrib-mcprotocol/
 !node_modules/node-red-contrib-edge/
+!node_modules/node-red-dashboard/dist/index.html
