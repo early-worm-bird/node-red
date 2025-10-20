@@ -1,0 +1,1 @@
+{"enableBasicFlow":false,"enableBarcodeEvent":false,"enableResultEvent":false,"enableBoardCodeReturn":false,"inputUrl":"http://127.0.0.1:1880/api/mpmcraft/craft/test/mes/checkMesRecentProcess","outputUrl":"http://127.0.0.1:1880/api/mpmcraft/craft/test/ict/reportIct"}

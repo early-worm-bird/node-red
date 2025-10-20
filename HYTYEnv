@@ -1,1 +1,1 @@
-{"apiUrl":"http://10.2.1.59:8130/soap/EventService","lineId":"666","workStationId":"777"}
+{"apiUrl":"http://10.2.1.59:8130/soap/EventService","lineId":"666","workStationId":"777","procedure":"烧录","testFileGrabUrl":"D:\\PTI-MES\\苏州航盛\\MES\\","testFileUrl":"D:\\PTI-MES\\苏州航盛\\"}

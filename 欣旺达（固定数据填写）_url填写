@@ -1,0 +1,1 @@
+{"enableBasicFlow":true,"enableBarcodeEvent":true,"enableResultEvent":true,"enableBoardCodeReturn":false,"loginUrl":"http://127.0.0.1:1880/common/Login","factoryUrl":"http://127.0.0.1:1880/common/StationInfoDownLoadV2","woUrl":"http://127.0.0.1:1880/common/MoInfoDownLoad","statusUrl":"http://127.0.0.1:1880/deviceApi/dispense/DeviceServices.ashx"}

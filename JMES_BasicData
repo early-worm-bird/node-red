@@ -1,0 +1,1 @@
+{"enableBasicFlow":true,"enableBarcodeEvent":true,"enableResultEvent":true,"enableBoardCodeReturn":false,"checkUrl":"http://127.0.0.1:1880/WS/SMPS/PROCCHECK","updateUrl":"http://127.0.0.1:1880/WS/SMPS/SAVERESULT","lineCode":"P51","machineCode":"ICT"}
